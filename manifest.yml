@@ -2,11 +2,11 @@
 language: hwc
 default_versions:
 - name: hwc
-  version: 17.0.0
+  version: 17.0.1
 dependencies:
 - name: hwc
-  version: 17.0.0
-  uri: https://buildpacks.cloudfoundry.org/dependencies/hwc/hwc-17.0.0-windows-amd64-968fe3e6.zip
+  version: 17.0.1
+  uri: https://github.com/dystudio/hwc/releases/download/17.0.1/hwc-17.0.1-windows-amd64-968fe3e6.zip
   sha256: 968fe3e663afa9da22914d48aa683553a4067480a0dd64b9d57941c89503989f
   cf_stacks:
   - windows2012R2
