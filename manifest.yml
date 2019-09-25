@@ -12,7 +12,7 @@ dependencies:
   - windows2012R2
   - windows2016
   - windows
-  source: https://github.com/cloudfoundry/hwc/archive/17.0.0.tar.gz
+  source: https://github.com/dystudio/hwc/releases/download/17.0.1/hwc-17.0.1.tar.gz
   source_sha256: b7ba44b12c99aa5f3f725360eddef1d05025f22b04be12e5a7fe149b3529b438
 include_files:
 - CHANGELOG
