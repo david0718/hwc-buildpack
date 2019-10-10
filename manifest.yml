@@ -7,7 +7,7 @@ dependencies:
 - name: hwc
   version: 17.0.0
   uri: https://buildpacks.cloudfoundry.org/dependencies/hwc/hwc-17.0.0-windows-amd64-968fe3e6.zip
-  sha256: 968fe3e663afa9da22914d48aa683553a4067480a0dd64b9d57941c89503989f
+  sha256: 3d0537c931d0cdbf1ffcaa5ae08e2ba8b8b197dddc729593361eb9658aa6697d
   cf_stacks:
   - windows2012R2
   - windows2016
