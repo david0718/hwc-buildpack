@@ -7,13 +7,13 @@ dependencies:
 - name: hwc
   version: 17.0.1
   uri: https://github.com/dystudio/hwc/releases/download/17.0.1/hwc-17.0.1-windows-amd64-968fe3e6.zip
-  sha256: 3d0537c931d0cdbf1ffcaa5ae08e2ba8b8b197dddc729593361eb9658aa6697d
+  sha256: ebcbc302c7ba0e41db84ba7bb7c7acab86fe7b9435367dce5408be044e063b9d
   cf_stacks:
   - windows2012R2
   - windows2016
   - windows
   source: https://github.com/dystudio/hwc/releases/download/17.0.1/hwc-17.0.1.tar.gz
-  source_sha256: b7ba44b12c99aa5f3f725360eddef1d05025f22b04be12e5a7fe149b3529b438
+  source_sha256: 000ac97b86c67724f7324f56d28a53d9fbee3ac6e32cfe2ec07821bcf137e90d
 include_files:
 - CHANGELOG
 - LICENSE
